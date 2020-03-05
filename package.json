@@ -1,0 +1,12 @@
+{
+  "name": "go-plugin-helper-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node-gyp": "^6.1.0"
+  }
+}
